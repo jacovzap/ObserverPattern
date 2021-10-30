@@ -1,7 +1,7 @@
 # EJEMPLO UTILIZANDO EL PATRON DE COMPORTAMIENTO OBSERVER
 
 ### ENUNCIADO DEL PROBLEMA
-Se funda una empresa de comida rapida que vende hamburguesas, al principio cuenta con unas pocas sucursales y una pagina web. La empresa requiere que al momento de lanzar un nuevo tipo de hamburguesa esta aparezca en el menu de todas sus sucursales asi como de su pagina web. Este proceso debe ser automatizado, ya que requeriria un gran esfuerzo modificar cada una de los menus en las sucursales de manera manual.
+Se funda una empresa de comida rapida que vende hamburguesas, al principio cuenta con unas pocas sucursales y una pagina web. La empresa requiere que al momento de lanzar un nuevo tipo de hamburguesa esta aparezca en el menu de todas sus sucursales asi como de su pagina web. Este proceso debe ser automatizado, ya que requeriria un gran esfuerzo modificar cada uno de los menus en las sucursales de manera manual.
 ### SOLUCION AL PROBLEMA
 Se utilizaron dos tipos de patrones para solucionar este problema, no por absoluta necesidad, si no con fines de aprendizaje.
 ### PATRON BUILDER
