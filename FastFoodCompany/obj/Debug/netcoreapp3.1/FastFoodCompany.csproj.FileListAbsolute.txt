@@ -1,0 +1,14 @@
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\bin\Debug\netcoreapp3.1\FastFoodCompany.exe
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\bin\Debug\netcoreapp3.1\FastFoodCompany.deps.json
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\bin\Debug\netcoreapp3.1\FastFoodCompany.runtimeconfig.json
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\bin\Debug\netcoreapp3.1\FastFoodCompany.runtimeconfig.dev.json
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\bin\Debug\netcoreapp3.1\FastFoodCompany.dll
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\bin\Debug\netcoreapp3.1\FastFoodCompany.pdb
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.csprojAssemblyReference.cache
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.AssemblyInfoInputs.cache
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.AssemblyInfo.cs
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.csproj.CoreCompileInputs.cache
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.dll
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.pdb
+C:\Users\JHONNY\source\repos\FastFoodCompany\FastFoodCompany\obj\Debug\netcoreapp3.1\FastFoodCompany.genruntimeconfig.cache
